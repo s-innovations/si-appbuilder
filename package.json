@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "name": "si-appbuilder",
+  "author": "Poul K. Sorensen <pks@s-innovations.net> (http://twitter.com/pksorensen)",
+  "homepage": "https://www.s-innovations.net",
+  "bugs": {
+    "url": "https://github.com/s-innovations/si-appbuilder/issues",
+    "email": "bugs@s-innovations.com"
+  },
+  "repository": "https://github.com/s-innovations/si-appbuilder",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.35",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-coveralls": "^1.0.1",
+    "grunt-template-jasmine-istanbul": "^0.5.0",
+    "grunt-template-jasmine-requirejs": "github:mikeapr4/grunt-template-jasmine-requirejs#311e8ddfa89566a03444964e013c6825c0263795",
+    "typescript": "^2.0.3"
+  }
+}
